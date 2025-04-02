@@ -1,0 +1,14 @@
+/Users/p/Documents/C#/AT1_C#/9A/bin/Debug/net9.0/9A
+/Users/p/Documents/C#/AT1_C#/9A/bin/Debug/net9.0/9A.deps.json
+/Users/p/Documents/C#/AT1_C#/9A/bin/Debug/net9.0/9A.runtimeconfig.json
+/Users/p/Documents/C#/AT1_C#/9A/bin/Debug/net9.0/9A.dll
+/Users/p/Documents/C#/AT1_C#/9A/bin/Debug/net9.0/9A.pdb
+/Users/p/Documents/C#/AT1_C#/9A/obj/Debug/net9.0/9A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/p/Documents/C#/AT1_C#/9A/obj/Debug/net9.0/9A.AssemblyInfoInputs.cache
+/Users/p/Documents/C#/AT1_C#/9A/obj/Debug/net9.0/9A.AssemblyInfo.cs
+/Users/p/Documents/C#/AT1_C#/9A/obj/Debug/net9.0/9A.csproj.CoreCompileInputs.cache
+/Users/p/Documents/C#/AT1_C#/9A/obj/Debug/net9.0/9A.dll
+/Users/p/Documents/C#/AT1_C#/9A/obj/Debug/net9.0/refint/9A.dll
+/Users/p/Documents/C#/AT1_C#/9A/obj/Debug/net9.0/9A.pdb
+/Users/p/Documents/C#/AT1_C#/9A/obj/Debug/net9.0/9A.genruntimeconfig.cache
+/Users/p/Documents/C#/AT1_C#/9A/obj/Debug/net9.0/ref/9A.dll

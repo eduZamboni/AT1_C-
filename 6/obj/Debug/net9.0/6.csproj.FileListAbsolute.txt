@@ -1,0 +1,14 @@
+/Users/p/Documents/C#/AT1_C#/6/bin/Debug/net9.0/6
+/Users/p/Documents/C#/AT1_C#/6/bin/Debug/net9.0/6.deps.json
+/Users/p/Documents/C#/AT1_C#/6/bin/Debug/net9.0/6.runtimeconfig.json
+/Users/p/Documents/C#/AT1_C#/6/bin/Debug/net9.0/6.dll
+/Users/p/Documents/C#/AT1_C#/6/bin/Debug/net9.0/6.pdb
+/Users/p/Documents/C#/AT1_C#/6/obj/Debug/net9.0/6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/p/Documents/C#/AT1_C#/6/obj/Debug/net9.0/6.AssemblyInfoInputs.cache
+/Users/p/Documents/C#/AT1_C#/6/obj/Debug/net9.0/6.AssemblyInfo.cs
+/Users/p/Documents/C#/AT1_C#/6/obj/Debug/net9.0/6.csproj.CoreCompileInputs.cache
+/Users/p/Documents/C#/AT1_C#/6/obj/Debug/net9.0/6.dll
+/Users/p/Documents/C#/AT1_C#/6/obj/Debug/net9.0/refint/6.dll
+/Users/p/Documents/C#/AT1_C#/6/obj/Debug/net9.0/6.pdb
+/Users/p/Documents/C#/AT1_C#/6/obj/Debug/net9.0/6.genruntimeconfig.cache
+/Users/p/Documents/C#/AT1_C#/6/obj/Debug/net9.0/ref/6.dll
